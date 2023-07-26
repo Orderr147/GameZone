@@ -2,15 +2,15 @@
   "1": {
     "gameTitle": "",
     "gameUrl": "Master_Typing",
-    "thumbnailUrl": ""
+    "thumbnailUrl": "Master_Typing.png"
   },
   "2": {
-    "gameTitle": "Tilting Maze",
+    "gameTitle": "",
     "gameUrl": "Tilting_Maze",
     "thumbnailUrl": "Tilting_Maze.png"
   },
   "3": {
-    "gameTitle": "Simon Game",
+    "gameTitle": "",
     "gameUrl": "Simon_Game_Challenge",
     "thumbnailUrl": "Simon-game.png"
   },
