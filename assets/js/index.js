@@ -17,7 +17,7 @@ const generateLiTags = (gamesData) => {
                 </div>
                 <img src="./assets/images/${thumbnailUrl}" alt="${gameTitle}" loading="lazy">
               </figure>
-              <h3 class="project-title"><a href="https://github.com/kunjgit/GameZone/tree/main/Games/${gameUrl}" target="_blank">${tagNumber}. ${gameTitle} 🔗</a></h3>
+              <h3 class="project-title"><a href="https://www.facebook.com/manarmohamed.adel.9?mibextid=ZbWKwL${gameUrl}" target="_blank">${tagNumber}. ${gameTitle} 🔗</a></h3>
               <p class="project-category">Play and have fun!</p>
             </a>
           </li>
